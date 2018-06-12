@@ -1,5 +1,7 @@
 # NgObjectBinding
 
+Deployed to: https://ng-object-binding-ldqgzilcwz.now.sh/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
